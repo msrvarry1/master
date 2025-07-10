@@ -1,0 +1,1 @@
+Hi. This is a the README file for the first exercise in the DevOps Lab.
